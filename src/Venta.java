@@ -50,7 +50,6 @@ public class Venta {
     public Vehiculo getVehiculo() {
         return vehiculo;
     }
-
     public void setVehiculo(Vehiculo vehiculo) {
         this.vehiculo = vehiculo;
     }

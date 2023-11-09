@@ -70,5 +70,4 @@ public class Vehiculo {
     public void setVenta(Venta venta) {
         this.venta = venta;
     }
-
 }
